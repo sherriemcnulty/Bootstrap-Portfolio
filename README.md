@@ -1,2 +1,3 @@
 # Bootstrap-Portfolio
-Basic-Portfolio recreated with Bootstrap. 
+
+This is a mockup for my github online portfolio created with HTML/CSS and Bootstrap.
